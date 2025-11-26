@@ -1,4 +1,4 @@
-# E-Commerce MERN Project
+# E-Commerce Project
 
 This is a full-stack E-Commerce application built using **MongoDB, React, and Node.js**.
 
